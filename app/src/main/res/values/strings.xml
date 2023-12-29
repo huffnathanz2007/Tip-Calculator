@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">New Tip Calculator 09</string>
+
+    <string name="about_text">This version of the Tip Calculator app Calculates all tips on the post-tax bill toal</string>
+    <string name="remember_percent_summary">Remembers Most Recent Tip Percent</string>
+    <string name="remember_percent_title">Remembers Tip Percent</string>
+    <string name="rounding_title">Rounding</string>
+    <string name="rounding_summary">Sets calculation rounding option</string>
+    <string name="rounding_default">None</string>
+
+    <string-array name="rounding_keys">
+        <item>None</item>
+        <item>Tip</item>
+        <item>Total</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

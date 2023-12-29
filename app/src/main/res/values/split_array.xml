@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="split_array">
+    <item> No</item>
+    <item>2 ways</item>
+    <item>3 ways</item>
+    <item>4 ways</item>
+</string-array>
+</resources>
